@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+
+
+<div class="row body">
+
+  <h1>SpaceX Lanunch Programs</h1>
+<div class="main">
+  <div class="col-3 col-s-3 "><div class="menu">
+    <h2>filters</h2>
+<div class="launch"><p>Launch Year</p>
+<ul><li>2006</li><li> 2007</li><li> 2008</li><li> 2009</li> <li> 2010</li><li> 2011</li><li> 2012</li><li> 2013</li><li> 2014</li><li> 2015</li><li> 2016</li><li> 2017</li><li> 2018</li><li> 2019</li><li> 2020</li></ul></div>
+<div class="launch1"><p>Successful Launch</p>
+<ul><li>True</li><li> False</li></ul></div>
+<div class="launch1"><p>Successful Landing</p>
+<ul><li>True</li><li> False</li></ul></div>
+  </div></div>
+<div class="col-9 col-s-12 ">
+<div class="one">
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">FalconSat #1</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-1.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">DemoSat #2</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_Landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+<div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-2.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">Trailblazer #3</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-3.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">RatSat #4</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+</div><div class="one">
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">FalconSat #1</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-1.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">DemoSat #2</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_Landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+<div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-2.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">Trailblazer #3</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-3.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">RatSat #4</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+</div><div class="one">
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">FalconSat #1</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-1.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">DemoSat #2</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_Landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+<div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-2.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">Trailblazer #3</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-3.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">RatSat #4</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+</div><div class="one">
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">FalconSat #1</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-1.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">DemoSat #2</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_Landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+<div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-2.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">Trailblazer #3</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  
+  </div>
+  <div class="col-3 col-s-9 "><div class="menu">
+   <img src="img/falcon-3.jpg" width="100%">
+   <div class="product-details"><p><span class="pp">RatSat #4</span></p>
+<p><b>Mission Ids:</b>
+<ul><li>{list Mission Ids}</li></ul></p>
+<p><b>Launch Year:</b> 2006<br/><br/>
+<b>Successful launch:</b> false<br/><br/>
+<b>Successful:</b> false<br/><br/>
+<b>Successful</b> {launch_landing}<br/><br/>
+<b>Landing:</b></p></div>
+  </div>
+  </div>
+</div>
+  </div>
+</div></div>
+
+<div class="footer">
+  <p>Copyright smita trivedi</p>
+</div>
+
+</body>
+</html>
